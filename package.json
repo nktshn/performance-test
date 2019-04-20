@@ -16,5 +16,7 @@
   "bugs": {
     "url": "https://github.com/nktshn/performance-test/issues"
   },
-  "homepage": "https://github.com/nktshn/performance-test#readme"
+  "homepage": "https://github.com/nktshn/performance-test#readme",
+  "dependencies": {
+  }
 }
